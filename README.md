@@ -4,7 +4,7 @@ Below is a list of my respective contributions for each game.
 
 Game 1 (arcade platformer):
 I was in charge of creating the inital spawning system for the platforms, which had two goals:
- 1.) every platmorm must be within jumping distance of another platfrom, and 2.) it mus present a proper challenge to the player.
+ 1.) every platmorm must be within jumping distance of another platfrom, and 2.) it must present a proper challenge to the player.
  The resulting spawner fulfilled both requirements, but it was considered too difficult for the camera to follow since there were no bounds limiting the spawns.
  Therefore, it was simplified into the final product by myself and another group member, which has set spawn locations.
 I was also in charge of implementing the gravity swap mechanic.
